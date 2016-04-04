@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-13 23:43+0100\n"
+"PO-Revision-Date: 2015-02-12 16:37+0330\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: bp-pop.php:75
+msgid "Cancel Friendship"
+msgstr ""
+
+#: bp-pop.php:77
+msgid "Add Friend"
+msgstr ""
+
+#: bp-pop.php:79
+msgid "Cancel Friendship Request"
+msgstr ""
+
+#: bp-pop.php:81
+msgid "Send Messege"
+msgstr ""
+
+#: bp-pop.php:92
+msgid "Total friends"
+msgstr ""
+
+#: bp-pop.php:103
+msgid "No friends!"
+msgstr ""
+
+#: bp-pop.php:148
+msgid "Total Members"
+msgstr ""
+
+#: bp-pop.php:159
+msgid "leave group"
+msgstr ""
+
+#: bp-pop.php:159
+msgid "Join group"
+msgstr ""
+
+#: bp-pop.php:159
+msgid "Request membership"
+msgstr ""
